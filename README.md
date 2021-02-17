@@ -1,4 +1,4 @@
-## Available Scripts
+## Doughy
 
 Doughy is an online platform that connects bakeries with customers. The vision behind doughy is to make fresh baked goods available to people by delivering from nearby bakeries. 
 
@@ -6,7 +6,7 @@ Doughy is an online platform that connects bakeries with customers. The vision b
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the client directory, you can run:
 
 ### `npm start`
 
