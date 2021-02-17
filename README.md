@@ -2,7 +2,7 @@
 
 Doughy is an online platform that connects bakeries with customers. The vision behind doughy is to make fresh baked goods available to people by delivering from nearby bakeries. 
 
-![Alt text](solo-test/public/images/Doughy Screenshot.png?raw=true "Doughy") 
+![Alt text](solo-test/public/images/Doughy_Screenshot.png?raw=true "Doughy") 
 
 ## Available Scripts
 
